@@ -1,2 +1,5 @@
 node_modules
 app/libs
+/app/css/libs.css
+/app/css/libs.min.css
+/app/js/libs.min.js
