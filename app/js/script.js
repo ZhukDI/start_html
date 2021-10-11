@@ -1,3 +1,4 @@
-// $(function(){
-//     $('body').fadeOut();
-// });
+ $(function(){
+   alert('success');
+   
+ });
